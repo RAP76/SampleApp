@@ -10,6 +10,8 @@
         <entry key="app/src/main/res/layout/activity_list_data.xml" value="0.12286158631415241" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.125" />
         <entry key="app/src/main/res/layout/list.xml" value="0.1031248673001446" />
+        <entry key="app/src/main/res/menu/context_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.20084973516783725" />
       </map>
     </option>
   </component>
