@@ -7,8 +7,11 @@
         <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.2528205128205128" />
         <entry key="app/src/main/res/drawable/input_bg.xml" value="0.12314814814814815" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_list_data.xml" value="0.12286158631415241" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_kalih.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_setunggal.xml" value="0.24790105731908682" />
         <entry key="app/src/main/res/layout/list.xml" value="0.1031248673001446" />
         <entry key="app/src/main/res/menu/context_menu.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu_main.xml" value="0.20084973516783725" />
